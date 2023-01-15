@@ -21,7 +21,7 @@ public class calculator {
 		float eapp = grade.nextFloat();
 		System.out.print("Philosophy                              : ");
 		float philo = grade.nextFloat();
-		System.out.print("PE & Health                             : ");
+		System.out.print("PE & music                           : ");
 		float pe = grade.nextFloat();
 		
 		float average = (oralcom + science + ict + math + ucsp + eapp + philo + pe)/8;
